@@ -5,7 +5,7 @@
 
 ##
   
-- 🔭 I am currently working at Spin Pay.
+- 🔭 I am currently working at Nubank / NuPay.
 - 🌱 I am currently learning IaaS.
 - 📫 How to reach me: fhziliotti@hotmail.com
 - ⚡ Curiosity: Playing a lot of guitar and a Coca-Cola lover.
