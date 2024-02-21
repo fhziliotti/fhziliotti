@@ -7,7 +7,7 @@
   
 - 🔭 I am currently working at Nubank / NuPay.
 - 🌱 I am currently learning IaaS.
-- 📫 How to reach me: fhziliotti@hotmail.com
+- 📫 How to reach me: fhziliotti@gmail.com
 - ⚡ Curiosity: Playing a lot of guitar and a Coca-Cola lover.
 
 ## 
